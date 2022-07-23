@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srish-03
 - 👀 I’m interested in learning programming languages, software development and web development and want to work on multiple projects
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on projects related to C and C++
+- 🌱 I’m currently working on frontend
+- 💞️ I’m looking to collaborate on projects related to webdesigning
 - 📫 u can contact me through my email id- iamsrish03@gmail.com
 
 <!---
