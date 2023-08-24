@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srish-03
+- 👋 Hi, I’m @Srishti_Madaan
 - 👀 I’m interested in learning programming languages, software development and web development and want to work on multiple projects
 - 🌱 I’m currently working on frontend
 - 💞️ I’m looking to collaborate on projects related to webdesigning
